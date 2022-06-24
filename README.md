@@ -1,4 +1,4 @@
 # Restaurant Application
-Application developed by React Native using using yelp api.
+Application developed by React Native using using Yelp API.
 
 
